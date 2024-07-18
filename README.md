@@ -30,3 +30,9 @@ This is a basic calculator application developed in Java. It supports fundamenta
 
 - Programming Language: Java
 - Build Tool: Gradle
+
+## Screenshots
+
+<div >
+<img src="/fastlane/metadata/android/en-US/images/1.jpg" width="32%" /> <img src="/fastlane/metadata/android/en-US/images/2.jpg" width="32%" />
+</div>
